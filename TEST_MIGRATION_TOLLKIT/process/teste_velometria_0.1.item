@@ -71,7 +71,7 @@
     <elementParameter field="TEXT" name="URL" value="&quot;jdbc:mysql://10.150.71.206:3306/talend_administrator_8_server_101&quot;" show="false"/>
     <elementParameter field="TABLE" name="DRIVER_JAR" show="false"/>
     <elementParameter field="TEXT" name="DRIVER_CLASS" value="&quot;&quot;" show="false"/>
-    <elementParameter field="TEXT" name="HOST" value="jdbc:mysql://10.150.71.206:3306/talend_administrator_8_server_10"/>
+    <elementParameter field="TEXT" name="HOST" value="&quot;jdbc:mysql://10.150.71.206:3306/talend_administrator_8_server_10&quot;"/>
     <elementParameter field="TEXT" name="PORT" value="&quot;3306&quot;"/>
     <elementParameter field="TEXT" name="DATASOURCE" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="DBNAME" value="&quot;10.150.71.206&quot;"/>
