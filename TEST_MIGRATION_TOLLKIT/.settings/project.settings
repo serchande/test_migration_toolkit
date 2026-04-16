@@ -192,19 +192,19 @@
         "show" : true,
         "field" : "DBTABLE",
         "name" : "TABLE_STATS",
-        "value" : "\"\"",
+        "value" : "\"Stats_Table\"",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "DBTABLE",
         "name" : "TABLE_LOGS",
-        "value" : "\"\"",
+        "value" : "\"Logs_table\"",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "DBTABLE",
         "name" : "TABLE_METER",
-        "value" : "\"\"",
+        "value" : "\"Meter_table\"",
         "contextMode" : false
       }, {
         "show" : true,
