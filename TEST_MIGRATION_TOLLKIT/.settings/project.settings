@@ -150,7 +150,7 @@
         "show" : true,
         "field" : "TEXT",
         "name" : "DBNAME",
-        "value" : "\"talend_administrator_8_server_101\"",
+        "value" : "\"amc\"",
         "contextMode" : false
       }, {
         "show" : true,
@@ -192,19 +192,19 @@
         "show" : true,
         "field" : "DBTABLE",
         "name" : "TABLE_STATS",
-        "value" : "\"Stats_Table\"",
+        "value" : "\"statcatcher\"",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "DBTABLE",
         "name" : "TABLE_LOGS",
-        "value" : "\"Logs_table\"",
+        "value" : "\"logcatcher\"",
         "contextMode" : false
       }, {
         "show" : true,
         "field" : "DBTABLE",
         "name" : "TABLE_METER",
-        "value" : "\"Meter_table\"",
+        "value" : "\"flowmeter\"",
         "contextMode" : false
       }, {
         "show" : true,
