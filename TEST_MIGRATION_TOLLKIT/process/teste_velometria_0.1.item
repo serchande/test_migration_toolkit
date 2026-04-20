@@ -462,7 +462,7 @@
     <elementParameter field="TEXT" name="DBNAME" value="&quot;&quot;" show="false"/>
     <elementParameter field="TEXT" name="USER" value="&quot;&quot;" show="false"/>
     <elementParameter field="PASSWORD" name="PASS" value="enc:system.encryption.key.v1:lNRcSkWYZ/iv8+paprvAiZpoxOP9jZgfKr/atb47" show="false"/>
-    <elementParameter field="DBTABLE" name="TABLE" value="&quot;&quot;statcatcher&quot;&quot;"/>
+    <elementParameter field="DBTABLE" name="TABLE" value="&quot;statcatcher&quot;"/>
     <elementParameter field="CLOSED_LIST" name="TABLE_ACTION" value="NONE"/>
     <elementParameter field="CLOSED_LIST" name="DATA_ACTION" value="INSERT"/>
     <elementParameter field="LABEL" name="NOTE" value="This option only applies when deploying and running in the Talend Runtime" show="false"/>
